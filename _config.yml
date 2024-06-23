@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: O Livro Azul
+description: Aulas de computação e ciências exatas
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://olivroazul.com.br
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  YouTube Channel: https://www.youtube.com/@olivroazul
+aux_links_new_tab: true
+
+
+
